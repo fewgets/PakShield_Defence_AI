@@ -1,0 +1,21 @@
+{
+  "filename": "test_20251012T124703309898.jpg",
+  "generated_at": "2025-10-12T12:47:11.859897",
+  "detections": [
+    {
+      "label": "drone",
+      "confidence": 0.8,
+      "bbox": [
+        290,
+        422,
+        1698,
+        796
+      ]
+    }
+  ],
+  "summary": {
+    "detections_count": 1,
+    "alert_events": 1,
+    "drones_detected": 1
+  }
+}

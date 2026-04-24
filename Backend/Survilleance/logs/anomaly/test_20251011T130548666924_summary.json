@@ -1,0 +1,67 @@
+{
+  "detections_count": 4,
+  "restricted_event_count": 0,
+  "detections": [
+    {
+      "label": "person",
+      "confidence": 0.8794,
+      "bbox": [
+        120,
+        106,
+        329,
+        633
+      ],
+      "center": [
+        224,
+        369
+      ],
+      "restricted": false
+    },
+    {
+      "label": "person",
+      "confidence": 0.7851,
+      "bbox": [
+        391,
+        467,
+        440,
+        584
+      ],
+      "center": [
+        415,
+        525
+      ],
+      "restricted": false
+    },
+    {
+      "label": "person",
+      "confidence": 0.6104,
+      "bbox": [
+        315,
+        460,
+        361,
+        587
+      ],
+      "center": [
+        338,
+        523
+      ],
+      "restricted": false
+    },
+    {
+      "label": "suitcase",
+      "confidence": 0.5842,
+      "bbox": [
+        681,
+        454,
+        1115,
+        778
+      ],
+      "center": [
+        898,
+        616
+      ],
+      "restricted": false
+    }
+  ],
+  "restricted_events": []
+}

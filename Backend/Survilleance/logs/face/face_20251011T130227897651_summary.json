@@ -1,0 +1,17 @@
+{
+  "detections_count": 1,
+  "authorized_count": 1,
+  "detections": [
+    {
+      "label": "face",
+      "distance": 0.0,
+      "authorized": true,
+      "bbox": [
+        66,
+        48,
+        111,
+        110
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "detections_count": 1,
+  "authorized_count": 0,
+  "detections": [
+    {
+      "label": "Unknown",
+      "distance": 1.2232,
+      "authorized": false,
+      "bbox": [
+        84,
+        43,
+        115,
+        83
+      ]
+    }
+  ]
+}

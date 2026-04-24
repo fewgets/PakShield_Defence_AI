@@ -1,0 +1,31 @@
+{
+  "detections_count": 1,
+  "weapon_alerts": [
+    {
+      "label": "weapon",
+      "confidence": 0.9058,
+      "bbox": [
+        15,
+        46,
+        138,
+        118
+      ],
+      "is_weapon": true,
+      "timestamp": "03:51:14"
+    }
+  ],
+  "detections": [
+    {
+      "label": "weapon",
+      "confidence": 0.9058,
+      "bbox": [
+        15,
+        46,
+        138,
+        118
+      ],
+      "is_weapon": true,
+      "timestamp": "03:51:14"
+    }
+  ]
+}

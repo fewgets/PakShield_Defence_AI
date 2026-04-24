@@ -1,0 +1,21 @@
+{
+  "filename": "Golden-Eagle-flying-flat_20251012T112109973268.jpeg",
+  "generated_at": "2025-10-12T11:21:16.992478",
+  "detections": [
+    {
+      "label": "drone",
+      "confidence": 0.8,
+      "bbox": [
+        290,
+        422,
+        1698,
+        796
+      ]
+    }
+  ],
+  "summary": {
+    "detections_count": 1,
+    "alert_events": 1,
+    "drones_detected": 1
+  }
+}

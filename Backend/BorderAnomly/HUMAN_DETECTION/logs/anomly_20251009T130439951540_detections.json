@@ -1,0 +1,1496 @@
+[
+  {
+    "frame_number": 9,
+    "timestamp_sec": 1.74,
+    "label": "HUMAN",
+    "confidence": 0.63
+  },
+  {
+    "frame_number": 10,
+    "timestamp_sec": 2.02,
+    "label": "HUMAN",
+    "confidence": 0.63
+  },
+  {
+    "frame_number": 11,
+    "timestamp_sec": 2.46,
+    "label": "HUMAN",
+    "confidence": 0.66
+  },
+  {
+    "frame_number": 12,
+    "timestamp_sec": 2.68,
+    "label": "HUMAN",
+    "confidence": 0.6
+  },
+  {
+    "frame_number": 13,
+    "timestamp_sec": 2.88,
+    "label": "HUMAN",
+    "confidence": 0.69
+  },
+  {
+    "frame_number": 14,
+    "timestamp_sec": 3.07,
+    "label": "HUMAN",
+    "confidence": 0.67
+  },
+  {
+    "frame_number": 15,
+    "timestamp_sec": 3.27,
+    "label": "HUMAN",
+    "confidence": 0.65
+  },
+  {
+    "frame_number": 16,
+    "timestamp_sec": 3.45,
+    "label": "HUMAN",
+    "confidence": 0.66
+  },
+  {
+    "frame_number": 19,
+    "timestamp_sec": 3.92,
+    "label": "HUMAN",
+    "confidence": 0.66
+  },
+  {
+    "frame_number": 20,
+    "timestamp_sec": 4.08,
+    "label": "HUMAN",
+    "confidence": 0.63
+  },
+  {
+    "frame_number": 21,
+    "timestamp_sec": 4.24,
+    "label": "HUMAN",
+    "confidence": 0.61
+  },
+  {
+    "frame_number": 22,
+    "timestamp_sec": 4.43,
+    "label": "HUMAN",
+    "confidence": 0.64
+  },
+  {
+    "frame_number": 23,
+    "timestamp_sec": 4.6,
+    "label": "HUMAN",
+    "confidence": 0.7
+  },
+  {
+    "frame_number": 24,
+    "timestamp_sec": 4.76,
+    "label": "HUMAN",
+    "confidence": 0.7
+  },
+  {
+    "frame_number": 25,
+    "timestamp_sec": 4.92,
+    "label": "HUMAN",
+    "confidence": 0.7
+  },
+  {
+    "frame_number": 33,
+    "timestamp_sec": 6.15,
+    "label": "HUMAN",
+    "confidence": 0.71
+  },
+  {
+    "frame_number": 34,
+    "timestamp_sec": 6.3,
+    "label": "HUMAN",
+    "confidence": 0.72
+  },
+  {
+    "frame_number": 35,
+    "timestamp_sec": 6.45,
+    "label": "HUMAN",
+    "confidence": 0.75
+  },
+  {
+    "frame_number": 36,
+    "timestamp_sec": 6.65,
+    "label": "HUMAN",
+    "confidence": 0.75
+  },
+  {
+    "frame_number": 37,
+    "timestamp_sec": 6.82,
+    "label": "HUMAN",
+    "confidence": 0.62
+  },
+  {
+    "frame_number": 41,
+    "timestamp_sec": 7.57,
+    "label": "HUMAN",
+    "confidence": 0.65
+  },
+  {
+    "frame_number": 199,
+    "timestamp_sec": 35.61,
+    "label": "HUMAN",
+    "confidence": 0.61
+  },
+  {
+    "frame_number": 200,
+    "timestamp_sec": 35.81,
+    "label": "HUMAN",
+    "confidence": 0.62
+  },
+  {
+    "frame_number": 203,
+    "timestamp_sec": 36.49,
+    "label": "HUMAN",
+    "confidence": 0.6
+  },
+  {
+    "frame_number": 204,
+    "timestamp_sec": 36.67,
+    "label": "HUMAN",
+    "confidence": 0.62
+  },
+  {
+    "frame_number": 205,
+    "timestamp_sec": 36.87,
+    "label": "HUMAN",
+    "confidence": 0.75
+  },
+  {
+    "frame_number": 206,
+    "timestamp_sec": 37.11,
+    "label": "HUMAN",
+    "confidence": 0.76
+  },
+  {
+    "frame_number": 207,
+    "timestamp_sec": 37.38,
+    "label": "HUMAN",
+    "confidence": 0.78
+  },
+  {
+    "frame_number": 208,
+    "timestamp_sec": 37.57,
+    "label": "HUMAN",
+    "confidence": 0.76
+  },
+  {
+    "frame_number": 209,
+    "timestamp_sec": 37.73,
+    "label": "HUMAN",
+    "confidence": 0.74
+  },
+  {
+    "frame_number": 210,
+    "timestamp_sec": 37.89,
+    "label": "HUMAN",
+    "confidence": 0.73
+  },
+  {
+    "frame_number": 211,
+    "timestamp_sec": 38.05,
+    "label": "HUMAN",
+    "confidence": 0.67
+  },
+  {
+    "frame_number": 212,
+    "timestamp_sec": 38.2,
+    "label": "HUMAN",
+    "confidence": 0.81
+  },
+  {
+    "frame_number": 213,
+    "timestamp_sec": 38.37,
+    "label": "HUMAN",
+    "confidence": 0.81
+  },
+  {
+    "frame_number": 214,
+    "timestamp_sec": 38.61,
+    "label": "HUMAN",
+    "confidence": 0.79
+  },
+  {
+    "frame_number": 215,
+    "timestamp_sec": 38.79,
+    "label": "HUMAN",
+    "confidence": 0.79
+  },
+  {
+    "frame_number": 216,
+    "timestamp_sec": 38.97,
+    "label": "HUMAN",
+    "confidence": 0.79
+  },
+  {
+    "frame_number": 217,
+    "timestamp_sec": 39.13,
+    "label": "HUMAN",
+    "confidence": 0.76
+  },
+  {
+    "frame_number": 218,
+    "timestamp_sec": 39.29,
+    "label": "HUMAN",
+    "confidence": 0.8
+  },
+  {
+    "frame_number": 219,
+    "timestamp_sec": 39.49,
+    "label": "HUMAN",
+    "confidence": 0.78
+  },
+  {
+    "frame_number": 220,
+    "timestamp_sec": 39.67,
+    "label": "HUMAN",
+    "confidence": 0.74
+  },
+  {
+    "frame_number": 220,
+    "timestamp_sec": 39.67,
+    "label": "HUMAN",
+    "confidence": 0.7
+  },
+  {
+    "frame_number": 221,
+    "timestamp_sec": 39.84,
+    "label": "HUMAN",
+    "confidence": 0.76
+  },
+  {
+    "frame_number": 221,
+    "timestamp_sec": 39.84,
+    "label": "HUMAN",
+    "confidence": 0.7
+  },
+  {
+    "frame_number": 222,
+    "timestamp_sec": 40.01,
+    "label": "HUMAN",
+    "confidence": 0.8
+  },
+  {
+    "frame_number": 222,
+    "timestamp_sec": 40.01,
+    "label": "HUMAN",
+    "confidence": 0.69
+  },
+  {
+    "frame_number": 223,
+    "timestamp_sec": 40.18,
+    "label": "HUMAN",
+    "confidence": 0.8
+  },
+  {
+    "frame_number": 223,
+    "timestamp_sec": 40.18,
+    "label": "HUMAN",
+    "confidence": 0.69
+  },
+  {
+    "frame_number": 224,
+    "timestamp_sec": 40.36,
+    "label": "HUMAN",
+    "confidence": 0.8
+  },
+  {
+    "frame_number": 224,
+    "timestamp_sec": 40.36,
+    "label": "HUMAN",
+    "confidence": 0.67
+  },
+  {
+    "frame_number": 225,
+    "timestamp_sec": 40.56,
+    "label": "HUMAN",
+    "confidence": 0.81
+  },
+  {
+    "frame_number": 225,
+    "timestamp_sec": 40.56,
+    "label": "HUMAN",
+    "confidence": 0.68
+  },
+  {
+    "frame_number": 226,
+    "timestamp_sec": 40.79,
+    "label": "HUMAN",
+    "confidence": 0.81
+  },
+  {
+    "frame_number": 226,
+    "timestamp_sec": 40.79,
+    "label": "HUMAN",
+    "confidence": 0.7
+  },
+  {
+    "frame_number": 227,
+    "timestamp_sec": 41.0,
+    "label": "HUMAN",
+    "confidence": 0.83
+  },
+  {
+    "frame_number": 227,
+    "timestamp_sec": 41.0,
+    "label": "HUMAN",
+    "confidence": 0.77
+  },
+  {
+    "frame_number": 228,
+    "timestamp_sec": 41.19,
+    "label": "HUMAN",
+    "confidence": 0.82
+  },
+  {
+    "frame_number": 228,
+    "timestamp_sec": 41.19,
+    "label": "HUMAN",
+    "confidence": 0.77
+  },
+  {
+    "frame_number": 229,
+    "timestamp_sec": 41.37,
+    "label": "HUMAN",
+    "confidence": 0.8
+  },
+  {
+    "frame_number": 229,
+    "timestamp_sec": 41.37,
+    "label": "HUMAN",
+    "confidence": 0.8
+  },
+  {
+    "frame_number": 230,
+    "timestamp_sec": 41.56,
+    "label": "HUMAN",
+    "confidence": 0.8
+  },
+  {
+    "frame_number": 230,
+    "timestamp_sec": 41.56,
+    "label": "HUMAN",
+    "confidence": 0.78
+  },
+  {
+    "frame_number": 231,
+    "timestamp_sec": 41.73,
+    "label": "HUMAN",
+    "confidence": 0.8
+  },
+  {
+    "frame_number": 231,
+    "timestamp_sec": 41.73,
+    "label": "HUMAN",
+    "confidence": 0.78
+  },
+  {
+    "frame_number": 232,
+    "timestamp_sec": 41.92,
+    "label": "HUMAN",
+    "confidence": 0.8
+  },
+  {
+    "frame_number": 233,
+    "timestamp_sec": 42.13,
+    "label": "HUMAN",
+    "confidence": 0.82
+  },
+  {
+    "frame_number": 234,
+    "timestamp_sec": 42.4,
+    "label": "HUMAN",
+    "confidence": 0.86
+  },
+  {
+    "frame_number": 235,
+    "timestamp_sec": 42.57,
+    "label": "HUMAN",
+    "confidence": 0.86
+  },
+  {
+    "frame_number": 236,
+    "timestamp_sec": 42.73,
+    "label": "HUMAN",
+    "confidence": 0.86
+  },
+  {
+    "frame_number": 237,
+    "timestamp_sec": 42.88,
+    "label": "HUMAN",
+    "confidence": 0.86
+  },
+  {
+    "frame_number": 238,
+    "timestamp_sec": 43.07,
+    "label": "HUMAN",
+    "confidence": 0.86
+  },
+  {
+    "frame_number": 238,
+    "timestamp_sec": 43.07,
+    "label": "HUMAN",
+    "confidence": 0.68
+  },
+  {
+    "frame_number": 239,
+    "timestamp_sec": 43.26,
+    "label": "HUMAN",
+    "confidence": 0.82
+  },
+  {
+    "frame_number": 240,
+    "timestamp_sec": 43.42,
+    "label": "HUMAN",
+    "confidence": 0.82
+  },
+  {
+    "frame_number": 241,
+    "timestamp_sec": 43.58,
+    "label": "HUMAN",
+    "confidence": 0.81
+  },
+  {
+    "frame_number": 242,
+    "timestamp_sec": 43.74,
+    "label": "HUMAN",
+    "confidence": 0.79
+  },
+  {
+    "frame_number": 243,
+    "timestamp_sec": 43.91,
+    "label": "HUMAN",
+    "confidence": 0.75
+  },
+  {
+    "frame_number": 244,
+    "timestamp_sec": 44.07,
+    "label": "HUMAN",
+    "confidence": 0.73
+  },
+  {
+    "frame_number": 244,
+    "timestamp_sec": 44.07,
+    "label": "HUMAN",
+    "confidence": 0.65
+  },
+  {
+    "frame_number": 245,
+    "timestamp_sec": 44.24,
+    "label": "HUMAN",
+    "confidence": 0.76
+  },
+  {
+    "frame_number": 245,
+    "timestamp_sec": 44.24,
+    "label": "HUMAN",
+    "confidence": 0.67
+  },
+  {
+    "frame_number": 246,
+    "timestamp_sec": 44.4,
+    "label": "HUMAN",
+    "confidence": 0.75
+  },
+  {
+    "frame_number": 246,
+    "timestamp_sec": 44.4,
+    "label": "HUMAN",
+    "confidence": 0.67
+  },
+  {
+    "frame_number": 247,
+    "timestamp_sec": 44.55,
+    "label": "HUMAN",
+    "confidence": 0.71
+  },
+  {
+    "frame_number": 247,
+    "timestamp_sec": 44.55,
+    "label": "HUMAN",
+    "confidence": 0.66
+  },
+  {
+    "frame_number": 248,
+    "timestamp_sec": 44.71,
+    "label": "HUMAN",
+    "confidence": 0.7
+  },
+  {
+    "frame_number": 248,
+    "timestamp_sec": 44.71,
+    "label": "HUMAN",
+    "confidence": 0.64
+  },
+  {
+    "frame_number": 249,
+    "timestamp_sec": 44.89,
+    "label": "HUMAN",
+    "confidence": 0.68
+  },
+  {
+    "frame_number": 249,
+    "timestamp_sec": 44.89,
+    "label": "HUMAN",
+    "confidence": 0.61
+  },
+  {
+    "frame_number": 250,
+    "timestamp_sec": 45.06,
+    "label": "HUMAN",
+    "confidence": 0.72
+  },
+  {
+    "frame_number": 251,
+    "timestamp_sec": 45.22,
+    "label": "HUMAN",
+    "confidence": 0.75
+  },
+  {
+    "frame_number": 252,
+    "timestamp_sec": 45.44,
+    "label": "HUMAN",
+    "confidence": 0.75
+  },
+  {
+    "frame_number": 253,
+    "timestamp_sec": 45.62,
+    "label": "HUMAN",
+    "confidence": 0.74
+  },
+  {
+    "frame_number": 254,
+    "timestamp_sec": 45.8,
+    "label": "HUMAN",
+    "confidence": 0.86
+  },
+  {
+    "frame_number": 255,
+    "timestamp_sec": 45.97,
+    "label": "HUMAN",
+    "confidence": 0.83
+  },
+  {
+    "frame_number": 256,
+    "timestamp_sec": 46.19,
+    "label": "HUMAN",
+    "confidence": 0.83
+  },
+  {
+    "frame_number": 257,
+    "timestamp_sec": 46.38,
+    "label": "HUMAN",
+    "confidence": 0.87
+  },
+  {
+    "frame_number": 258,
+    "timestamp_sec": 46.57,
+    "label": "HUMAN",
+    "confidence": 0.87
+  },
+  {
+    "frame_number": 259,
+    "timestamp_sec": 46.74,
+    "label": "HUMAN",
+    "confidence": 0.88
+  },
+  {
+    "frame_number": 260,
+    "timestamp_sec": 46.92,
+    "label": "HUMAN",
+    "confidence": 0.88
+  },
+  {
+    "frame_number": 261,
+    "timestamp_sec": 47.13,
+    "label": "HUMAN",
+    "confidence": 0.88
+  },
+  {
+    "frame_number": 262,
+    "timestamp_sec": 47.38,
+    "label": "HUMAN",
+    "confidence": 0.87
+  },
+  {
+    "frame_number": 263,
+    "timestamp_sec": 47.62,
+    "label": "HUMAN",
+    "confidence": 0.85
+  },
+  {
+    "frame_number": 264,
+    "timestamp_sec": 47.81,
+    "label": "HUMAN",
+    "confidence": 0.87
+  },
+  {
+    "frame_number": 265,
+    "timestamp_sec": 47.98,
+    "label": "HUMAN",
+    "confidence": 0.79
+  },
+  {
+    "frame_number": 266,
+    "timestamp_sec": 48.13,
+    "label": "HUMAN",
+    "confidence": 0.8
+  },
+  {
+    "frame_number": 267,
+    "timestamp_sec": 48.28,
+    "label": "HUMAN",
+    "confidence": 0.8
+  },
+  {
+    "frame_number": 268,
+    "timestamp_sec": 48.44,
+    "label": "HUMAN",
+    "confidence": 0.72
+  },
+  {
+    "frame_number": 269,
+    "timestamp_sec": 48.6,
+    "label": "HUMAN",
+    "confidence": 0.63
+  },
+  {
+    "frame_number": 272,
+    "timestamp_sec": 49.1,
+    "label": "HUMAN",
+    "confidence": 0.6
+  },
+  {
+    "frame_number": 274,
+    "timestamp_sec": 49.43,
+    "label": "HUMAN",
+    "confidence": 0.63
+  },
+  {
+    "frame_number": 275,
+    "timestamp_sec": 49.6,
+    "label": "HUMAN",
+    "confidence": 0.7
+  },
+  {
+    "frame_number": 275,
+    "timestamp_sec": 49.6,
+    "label": "HUMAN",
+    "confidence": 0.69
+  },
+  {
+    "frame_number": 276,
+    "timestamp_sec": 49.77,
+    "label": "HUMAN",
+    "confidence": 0.72
+  },
+  {
+    "frame_number": 276,
+    "timestamp_sec": 49.77,
+    "label": "HUMAN",
+    "confidence": 0.72
+  },
+  {
+    "frame_number": 277,
+    "timestamp_sec": 49.98,
+    "label": "HUMAN",
+    "confidence": 0.75
+  },
+  {
+    "frame_number": 277,
+    "timestamp_sec": 49.98,
+    "label": "HUMAN",
+    "confidence": 0.69
+  },
+  {
+    "frame_number": 277,
+    "timestamp_sec": 49.98,
+    "label": "HUMAN",
+    "confidence": 0.69
+  },
+  {
+    "frame_number": 278,
+    "timestamp_sec": 50.17,
+    "label": "HUMAN",
+    "confidence": 0.76
+  },
+  {
+    "frame_number": 278,
+    "timestamp_sec": 50.17,
+    "label": "HUMAN",
+    "confidence": 0.69
+  },
+  {
+    "frame_number": 279,
+    "timestamp_sec": 50.32,
+    "label": "HUMAN",
+    "confidence": 0.79
+  },
+  {
+    "frame_number": 279,
+    "timestamp_sec": 50.32,
+    "label": "HUMAN",
+    "confidence": 0.61
+  },
+  {
+    "frame_number": 280,
+    "timestamp_sec": 50.48,
+    "label": "HUMAN",
+    "confidence": 0.78
+  },
+  {
+    "frame_number": 281,
+    "timestamp_sec": 50.64,
+    "label": "HUMAN",
+    "confidence": 0.79
+  },
+  {
+    "frame_number": 282,
+    "timestamp_sec": 50.79,
+    "label": "HUMAN",
+    "confidence": 0.82
+  },
+  {
+    "frame_number": 283,
+    "timestamp_sec": 50.94,
+    "label": "HUMAN",
+    "confidence": 0.74
+  },
+  {
+    "frame_number": 284,
+    "timestamp_sec": 51.09,
+    "label": "HUMAN",
+    "confidence": 0.67
+  },
+  {
+    "frame_number": 285,
+    "timestamp_sec": 51.33,
+    "label": "HUMAN",
+    "confidence": 0.68
+  },
+  {
+    "frame_number": 286,
+    "timestamp_sec": 51.5,
+    "label": "HUMAN",
+    "confidence": 0.74
+  },
+  {
+    "frame_number": 287,
+    "timestamp_sec": 51.65,
+    "label": "HUMAN",
+    "confidence": 0.74
+  },
+  {
+    "frame_number": 288,
+    "timestamp_sec": 51.82,
+    "label": "HUMAN",
+    "confidence": 0.74
+  },
+  {
+    "frame_number": 289,
+    "timestamp_sec": 51.98,
+    "label": "HUMAN",
+    "confidence": 0.74
+  },
+  {
+    "frame_number": 290,
+    "timestamp_sec": 52.26,
+    "label": "HUMAN",
+    "confidence": 0.78
+  },
+  {
+    "frame_number": 291,
+    "timestamp_sec": 52.47,
+    "label": "HUMAN",
+    "confidence": 0.8
+  },
+  {
+    "frame_number": 292,
+    "timestamp_sec": 52.63,
+    "label": "HUMAN",
+    "confidence": 0.81
+  },
+  {
+    "frame_number": 293,
+    "timestamp_sec": 52.79,
+    "label": "HUMAN",
+    "confidence": 0.77
+  },
+  {
+    "frame_number": 294,
+    "timestamp_sec": 52.94,
+    "label": "HUMAN",
+    "confidence": 0.71
+  },
+  {
+    "frame_number": 295,
+    "timestamp_sec": 53.09,
+    "label": "HUMAN",
+    "confidence": 0.68
+  },
+  {
+    "frame_number": 296,
+    "timestamp_sec": 53.24,
+    "label": "HUMAN",
+    "confidence": 0.71
+  },
+  {
+    "frame_number": 296,
+    "timestamp_sec": 53.24,
+    "label": "HUMAN",
+    "confidence": 0.7
+  },
+  {
+    "frame_number": 297,
+    "timestamp_sec": 53.4,
+    "label": "HUMAN",
+    "confidence": 0.79
+  },
+  {
+    "frame_number": 297,
+    "timestamp_sec": 53.4,
+    "label": "HUMAN",
+    "confidence": 0.73
+  },
+  {
+    "frame_number": 298,
+    "timestamp_sec": 53.56,
+    "label": "HUMAN",
+    "confidence": 0.81
+  },
+  {
+    "frame_number": 298,
+    "timestamp_sec": 53.56,
+    "label": "HUMAN",
+    "confidence": 0.69
+  },
+  {
+    "frame_number": 299,
+    "timestamp_sec": 53.72,
+    "label": "HUMAN",
+    "confidence": 0.68
+  },
+  {
+    "frame_number": 299,
+    "timestamp_sec": 53.72,
+    "label": "HUMAN",
+    "confidence": 0.65
+  },
+  {
+    "frame_number": 300,
+    "timestamp_sec": 53.88,
+    "label": "HUMAN",
+    "confidence": 0.66
+  },
+  {
+    "frame_number": 300,
+    "timestamp_sec": 53.88,
+    "label": "HUMAN",
+    "confidence": 0.63
+  },
+  {
+    "frame_number": 301,
+    "timestamp_sec": 54.02,
+    "label": "HUMAN",
+    "confidence": 0.69
+  },
+  {
+    "frame_number": 301,
+    "timestamp_sec": 54.02,
+    "label": "HUMAN",
+    "confidence": 0.65
+  },
+  {
+    "frame_number": 302,
+    "timestamp_sec": 54.18,
+    "label": "HUMAN",
+    "confidence": 0.71
+  },
+  {
+    "frame_number": 302,
+    "timestamp_sec": 54.18,
+    "label": "HUMAN",
+    "confidence": 0.65
+  },
+  {
+    "frame_number": 303,
+    "timestamp_sec": 54.33,
+    "label": "HUMAN",
+    "confidence": 0.65
+  },
+  {
+    "frame_number": 304,
+    "timestamp_sec": 54.52,
+    "label": "HUMAN",
+    "confidence": 0.69
+  },
+  {
+    "frame_number": 305,
+    "timestamp_sec": 54.68,
+    "label": "HUMAN",
+    "confidence": 0.72
+  },
+  {
+    "frame_number": 306,
+    "timestamp_sec": 54.84,
+    "label": "HUMAN",
+    "confidence": 0.72
+  },
+  {
+    "frame_number": 307,
+    "timestamp_sec": 55.01,
+    "label": "HUMAN",
+    "confidence": 0.72
+  },
+  {
+    "frame_number": 308,
+    "timestamp_sec": 55.16,
+    "label": "HUMAN",
+    "confidence": 0.7
+  },
+  {
+    "frame_number": 309,
+    "timestamp_sec": 55.32,
+    "label": "HUMAN",
+    "confidence": 0.7
+  },
+  {
+    "frame_number": 309,
+    "timestamp_sec": 55.32,
+    "label": "HUMAN",
+    "confidence": 0.61
+  },
+  {
+    "frame_number": 310,
+    "timestamp_sec": 55.48,
+    "label": "HUMAN",
+    "confidence": 0.71
+  },
+  {
+    "frame_number": 310,
+    "timestamp_sec": 55.48,
+    "label": "HUMAN",
+    "confidence": 0.65
+  },
+  {
+    "frame_number": 311,
+    "timestamp_sec": 55.64,
+    "label": "HUMAN",
+    "confidence": 0.68
+  },
+  {
+    "frame_number": 311,
+    "timestamp_sec": 55.64,
+    "label": "HUMAN",
+    "confidence": 0.67
+  },
+  {
+    "frame_number": 312,
+    "timestamp_sec": 55.8,
+    "label": "HUMAN",
+    "confidence": 0.7
+  },
+  {
+    "frame_number": 312,
+    "timestamp_sec": 55.8,
+    "label": "HUMAN",
+    "confidence": 0.68
+  },
+  {
+    "frame_number": 313,
+    "timestamp_sec": 55.97,
+    "label": "HUMAN",
+    "confidence": 0.7
+  },
+  {
+    "frame_number": 313,
+    "timestamp_sec": 55.97,
+    "label": "HUMAN",
+    "confidence": 0.66
+  },
+  {
+    "frame_number": 314,
+    "timestamp_sec": 56.12,
+    "label": "HUMAN",
+    "confidence": 0.69
+  },
+  {
+    "frame_number": 314,
+    "timestamp_sec": 56.12,
+    "label": "HUMAN",
+    "confidence": 0.65
+  },
+  {
+    "frame_number": 315,
+    "timestamp_sec": 56.28,
+    "label": "HUMAN",
+    "confidence": 0.68
+  },
+  {
+    "frame_number": 315,
+    "timestamp_sec": 56.28,
+    "label": "HUMAN",
+    "confidence": 0.68
+  },
+  {
+    "frame_number": 316,
+    "timestamp_sec": 56.43,
+    "label": "HUMAN",
+    "confidence": 0.67
+  },
+  {
+    "frame_number": 317,
+    "timestamp_sec": 56.59,
+    "label": "HUMAN",
+    "confidence": 0.62
+  },
+  {
+    "frame_number": 319,
+    "timestamp_sec": 56.94,
+    "label": "HUMAN",
+    "confidence": 0.61
+  },
+  {
+    "frame_number": 320,
+    "timestamp_sec": 57.12,
+    "label": "HUMAN",
+    "confidence": 0.69
+  },
+  {
+    "frame_number": 320,
+    "timestamp_sec": 57.12,
+    "label": "HUMAN",
+    "confidence": 0.66
+  },
+  {
+    "frame_number": 321,
+    "timestamp_sec": 57.35,
+    "label": "HUMAN",
+    "confidence": 0.76
+  },
+  {
+    "frame_number": 322,
+    "timestamp_sec": 57.54,
+    "label": "HUMAN",
+    "confidence": 0.74
+  },
+  {
+    "frame_number": 323,
+    "timestamp_sec": 57.69,
+    "label": "HUMAN",
+    "confidence": 0.8
+  },
+  {
+    "frame_number": 324,
+    "timestamp_sec": 57.85,
+    "label": "HUMAN",
+    "confidence": 0.75
+  },
+  {
+    "frame_number": 325,
+    "timestamp_sec": 58.0,
+    "label": "HUMAN",
+    "confidence": 0.71
+  },
+  {
+    "frame_number": 325,
+    "timestamp_sec": 58.0,
+    "label": "HUMAN",
+    "confidence": 0.61
+  },
+  {
+    "frame_number": 326,
+    "timestamp_sec": 58.14,
+    "label": "HUMAN",
+    "confidence": 0.69
+  },
+  {
+    "frame_number": 326,
+    "timestamp_sec": 58.14,
+    "label": "HUMAN",
+    "confidence": 0.6
+  },
+  {
+    "frame_number": 327,
+    "timestamp_sec": 58.3,
+    "label": "HUMAN",
+    "confidence": 0.65
+  },
+  {
+    "frame_number": 328,
+    "timestamp_sec": 58.45,
+    "label": "HUMAN",
+    "confidence": 0.67
+  },
+  {
+    "frame_number": 329,
+    "timestamp_sec": 58.6,
+    "label": "HUMAN",
+    "confidence": 0.68
+  },
+  {
+    "frame_number": 330,
+    "timestamp_sec": 58.75,
+    "label": "HUMAN",
+    "confidence": 0.66
+  },
+  {
+    "frame_number": 331,
+    "timestamp_sec": 58.92,
+    "label": "HUMAN",
+    "confidence": 0.65
+  },
+  {
+    "frame_number": 332,
+    "timestamp_sec": 59.11,
+    "label": "HUMAN",
+    "confidence": 0.67
+  },
+  {
+    "frame_number": 333,
+    "timestamp_sec": 59.26,
+    "label": "HUMAN",
+    "confidence": 0.74
+  },
+  {
+    "frame_number": 334,
+    "timestamp_sec": 59.42,
+    "label": "HUMAN",
+    "confidence": 0.69
+  },
+  {
+    "frame_number": 335,
+    "timestamp_sec": 59.56,
+    "label": "HUMAN",
+    "confidence": 0.68
+  },
+  {
+    "frame_number": 335,
+    "timestamp_sec": 59.56,
+    "label": "HUMAN",
+    "confidence": 0.65
+  },
+  {
+    "frame_number": 336,
+    "timestamp_sec": 59.72,
+    "label": "HUMAN",
+    "confidence": 0.65
+  },
+  {
+    "frame_number": 336,
+    "timestamp_sec": 59.72,
+    "label": "HUMAN",
+    "confidence": 0.64
+  },
+  {
+    "frame_number": 336,
+    "timestamp_sec": 59.72,
+    "label": "HUMAN",
+    "confidence": 0.62
+  },
+  {
+    "frame_number": 337,
+    "timestamp_sec": 59.88,
+    "label": "HUMAN",
+    "confidence": 0.66
+  },
+  {
+    "frame_number": 337,
+    "timestamp_sec": 59.88,
+    "label": "HUMAN",
+    "confidence": 0.61
+  },
+  {
+    "frame_number": 337,
+    "timestamp_sec": 59.88,
+    "label": "HUMAN",
+    "confidence": 0.61
+  },
+  {
+    "frame_number": 338,
+    "timestamp_sec": 60.03,
+    "label": "HUMAN",
+    "confidence": 0.66
+  },
+  {
+    "frame_number": 338,
+    "timestamp_sec": 60.03,
+    "label": "HUMAN",
+    "confidence": 0.61
+  },
+  {
+    "frame_number": 339,
+    "timestamp_sec": 60.2,
+    "label": "HUMAN",
+    "confidence": 0.68
+  },
+  {
+    "frame_number": 339,
+    "timestamp_sec": 60.2,
+    "label": "HUMAN",
+    "confidence": 0.61
+  },
+  {
+    "frame_number": 340,
+    "timestamp_sec": 60.36,
+    "label": "HUMAN",
+    "confidence": 0.67
+  },
+  {
+    "frame_number": 340,
+    "timestamp_sec": 60.36,
+    "label": "HUMAN",
+    "confidence": 0.66
+  },
+  {
+    "frame_number": 341,
+    "timestamp_sec": 60.53,
+    "label": "HUMAN",
+    "confidence": 0.76
+  },
+  {
+    "frame_number": 341,
+    "timestamp_sec": 60.53,
+    "label": "HUMAN",
+    "confidence": 0.63
+  },
+  {
+    "frame_number": 342,
+    "timestamp_sec": 60.7,
+    "label": "HUMAN",
+    "confidence": 0.8
+  },
+  {
+    "frame_number": 343,
+    "timestamp_sec": 60.87,
+    "label": "HUMAN",
+    "confidence": 0.73
+  },
+  {
+    "frame_number": 343,
+    "timestamp_sec": 60.87,
+    "label": "HUMAN",
+    "confidence": 0.69
+  },
+  {
+    "frame_number": 344,
+    "timestamp_sec": 61.03,
+    "label": "HUMAN",
+    "confidence": 0.71
+  },
+  {
+    "frame_number": 344,
+    "timestamp_sec": 61.03,
+    "label": "HUMAN",
+    "confidence": 0.67
+  },
+  {
+    "frame_number": 345,
+    "timestamp_sec": 61.21,
+    "label": "HUMAN",
+    "confidence": 0.67
+  },
+  {
+    "frame_number": 345,
+    "timestamp_sec": 61.21,
+    "label": "HUMAN",
+    "confidence": 0.65
+  },
+  {
+    "frame_number": 346,
+    "timestamp_sec": 61.44,
+    "label": "HUMAN",
+    "confidence": 0.63
+  },
+  {
+    "frame_number": 347,
+    "timestamp_sec": 61.63,
+    "label": "HUMAN",
+    "confidence": 0.61
+  },
+  {
+    "frame_number": 349,
+    "timestamp_sec": 61.94,
+    "label": "HUMAN",
+    "confidence": 0.64
+  },
+  {
+    "frame_number": 359,
+    "timestamp_sec": 63.66,
+    "label": "HUMAN",
+    "confidence": 0.61
+  },
+  {
+    "frame_number": 360,
+    "timestamp_sec": 63.84,
+    "label": "HUMAN",
+    "confidence": 0.71
+  },
+  {
+    "frame_number": 361,
+    "timestamp_sec": 64.0,
+    "label": "HUMAN",
+    "confidence": 0.71
+  },
+  {
+    "frame_number": 362,
+    "timestamp_sec": 64.15,
+    "label": "HUMAN",
+    "confidence": 0.71
+  },
+  {
+    "frame_number": 363,
+    "timestamp_sec": 64.33,
+    "label": "HUMAN",
+    "confidence": 0.71
+  },
+  {
+    "frame_number": 364,
+    "timestamp_sec": 64.49,
+    "label": "HUMAN",
+    "confidence": 0.73
+  },
+  {
+    "frame_number": 365,
+    "timestamp_sec": 64.65,
+    "label": "HUMAN",
+    "confidence": 0.66
+  },
+  {
+    "frame_number": 366,
+    "timestamp_sec": 64.81,
+    "label": "HUMAN",
+    "confidence": 0.66
+  },
+  {
+    "frame_number": 367,
+    "timestamp_sec": 64.98,
+    "label": "HUMAN",
+    "confidence": 0.7
+  },
+  {
+    "frame_number": 368,
+    "timestamp_sec": 65.14,
+    "label": "HUMAN",
+    "confidence": 0.65
+  },
+  {
+    "frame_number": 369,
+    "timestamp_sec": 65.31,
+    "label": "HUMAN",
+    "confidence": 0.66
+  },
+  {
+    "frame_number": 370,
+    "timestamp_sec": 65.48,
+    "label": "HUMAN",
+    "confidence": 0.72
+  },
+  {
+    "frame_number": 370,
+    "timestamp_sec": 65.48,
+    "label": "HUMAN",
+    "confidence": 0.66
+  },
+  {
+    "frame_number": 371,
+    "timestamp_sec": 65.64,
+    "label": "HUMAN",
+    "confidence": 0.72
+  },
+  {
+    "frame_number": 373,
+    "timestamp_sec": 66.02,
+    "label": "HUMAN",
+    "confidence": 0.67
+  },
+  {
+    "frame_number": 374,
+    "timestamp_sec": 66.19,
+    "label": "HUMAN",
+    "confidence": 0.69
+  },
+  {
+    "frame_number": 375,
+    "timestamp_sec": 66.37,
+    "label": "HUMAN",
+    "confidence": 0.63
+  },
+  {
+    "frame_number": 376,
+    "timestamp_sec": 66.53,
+    "label": "HUMAN",
+    "confidence": 0.64
+  },
+  {
+    "frame_number": 378,
+    "timestamp_sec": 66.87,
+    "label": "HUMAN",
+    "confidence": 0.66
+  },
+  {
+    "frame_number": 379,
+    "timestamp_sec": 67.02,
+    "label": "HUMAN",
+    "confidence": 0.64
+  },
+  {
+    "frame_number": 384,
+    "timestamp_sec": 67.99,
+    "label": "HUMAN",
+    "confidence": 0.61
+  },
+  {
+    "frame_number": 385,
+    "timestamp_sec": 68.18,
+    "label": "HUMAN",
+    "confidence": 0.65
+  },
+  {
+    "frame_number": 404,
+    "timestamp_sec": 71.19,
+    "label": "HUMAN",
+    "confidence": 0.65
+  },
+  {
+    "frame_number": 405,
+    "timestamp_sec": 71.36,
+    "label": "HUMAN",
+    "confidence": 0.66
+  },
+  {
+    "frame_number": 406,
+    "timestamp_sec": 71.52,
+    "label": "HUMAN",
+    "confidence": 0.68
+  },
+  {
+    "frame_number": 407,
+    "timestamp_sec": 71.67,
+    "label": "HUMAN",
+    "confidence": 0.67
+  },
+  {
+    "frame_number": 408,
+    "timestamp_sec": 71.84,
+    "label": "HUMAN",
+    "confidence": 0.67
+  },
+  {
+    "frame_number": 409,
+    "timestamp_sec": 72.0,
+    "label": "HUMAN",
+    "confidence": 0.67
+  },
+  {
+    "frame_number": 410,
+    "timestamp_sec": 72.24,
+    "label": "HUMAN",
+    "confidence": 0.68
+  },
+  {
+    "frame_number": 411,
+    "timestamp_sec": 72.46,
+    "label": "HUMAN",
+    "confidence": 0.63
+  }
+]

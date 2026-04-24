@@ -1,0 +1,50 @@
+{
+  "detections_count": 4,
+  "authorized_count": 0,
+  "detections": [
+    {
+      "label": "Unknown",
+      "distance": 1.4589,
+      "authorized": false,
+      "bbox": [
+        118,
+        98,
+        187,
+        178
+      ]
+    },
+    {
+      "label": "Unknown",
+      "distance": 1.4379,
+      "authorized": false,
+      "bbox": [
+        234,
+        81,
+        302,
+        162
+      ]
+    },
+    {
+      "label": "Unknown",
+      "distance": 1.4181,
+      "authorized": false,
+      "bbox": [
+        30,
+        29,
+        95,
+        109
+      ]
+    },
+    {
+      "label": "Unknown",
+      "distance": 1.4474,
+      "authorized": false,
+      "bbox": [
+        175,
+        17,
+        238,
+        95
+      ]
+    }
+  ]
+}
